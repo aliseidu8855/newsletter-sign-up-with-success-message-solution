@@ -51,6 +51,9 @@ li {
   margin-bottom: 10px;
   display: flex;
 }
+li img{
+  margin-right: 15px;
+}
 
 .list-item-img {
   margin-right: 15px;
